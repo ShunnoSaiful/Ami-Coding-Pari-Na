@@ -30,7 +30,4 @@ https://github.com/joy1954islam/Ami-Coding-Pari-Na.git
 * Server Run Command
 ```python manage.py runserver```
 
-* How to Token Generate
-```
-http POST http://127.0.0.1:8000/api-token-auth/ username='backslash' password='171-35-1954'
 
